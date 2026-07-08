@@ -1,3 +1,16 @@
+## [0.3.31](https://github.com/typeorm/typeorm/compare/0.3.30...0.3.31) (2026-07-08)
+
+
+### Bug Fixes
+
+* **docs:** correct project name in release flow ([#12519](https://github.com/typeorm/typeorm/issues/12519)) ([3b9faa3](https://github.com/typeorm/typeorm/commit/3b9faa31ced080db2073cd92c42905dd402fa636))
+* **docs:** resolve docs workflow issues ([c3c09b0](https://github.com/typeorm/typeorm/commit/c3c09b043f68ad4b19cc7b02bbeb85e2f720305c))
+* **docs:** resolve docs workflow issues ([f7b4b63](https://github.com/typeorm/typeorm/commit/f7b4b634647bd1a3e340fa421760183ebfb867be))
+* normalization of FindOptionsWhere for arrays and Buffers ([#12577](https://github.com/typeorm/typeorm/issues/12577)) ([a309182](https://github.com/typeorm/typeorm/commit/a309182c4495c8606dea96ed71ab3f2236663d64))
+* **persistence:** preserve select false columns on the in-memory entity after save() ([#12501](https://github.com/typeorm/typeorm/issues/12501)) ([d8e9127](https://github.com/typeorm/typeorm/commit/d8e91274662b85effbf6c79ff5d7379970839d27))
+* **query-builder:** reject empty where criteria on update and delete operations ([#12629](https://github.com/typeorm/typeorm/issues/12629)) ([dfd972b](https://github.com/typeorm/typeorm/commit/dfd972b80b9c79f4df429cd4a3cf171481928874))
+* **tree-entity:** tree entity schema propagation in internal TreeRepository methods ([#12590](https://github.com/typeorm/typeorm/issues/12590)) ([e1f93da](https://github.com/typeorm/typeorm/commit/e1f93da606576660b7e907c9f8d90520394ed495))
+
 ## [0.3.30](https://github.com/typeorm/typeorm/compare/0.3.29...0.3.30) (2026-05-18)
 
 
